@@ -1,10 +1,10 @@
 {
-  "catalog_id": "REC-001",
-  "title": "My grandmother's soup pot",
-  "date": "2026-09-03",
-  "place": "her kitchen, Sham Shui Po",
-  "recorder": "your name",
-  "image": "assets/record.jpg",
-  "not_captured": "the smell, and the sound of the lid",
-  "certainty": 3
+  "catalog_id": "#84920-B",
+  "title": "Forgotten Garden",
+  "date": "28 December 2019",
+  "place": "Nan Jing",
+  "recorder": "Leo XU",
+  "image": "photo.jpg",
+  "not_captured": "The chirping of the birds, the breathing of people, the sound of the wind.",
+  "certainty": "High"
 }
